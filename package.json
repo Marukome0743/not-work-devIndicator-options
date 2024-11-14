@@ -3,14 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbo",
+    "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "19.0.0-rc-187dd6a7-20240806",
-    "react-dom": "19.0.0-rc-187dd6a7-20240806",
-    "next": "15.0.0-canary.110"
+    "react": "19.0.0-rc-7ac8e612-20241113",
+    "react-dom": "19.0.0-rc-7ac8e612-20241113",
+    "next": "canary"
   }
 }
